@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSvl8RUvHiuj+O12Qw14kT5jRnzkgid66mYy2MtgWq4e2KuBEu76Yjy4F9rNMlOG97/g+D/heieRy5VPoFFatA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pom-user\\Documents\\other_code\\mtest\\Question-3A\\rabbitconsumer\\rabbitconsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pom-user\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\pom-user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\pom-user\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
